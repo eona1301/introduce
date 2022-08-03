@@ -1,24 +1,7 @@
 # introduce
 
-## Project setup
-```
-npm install
-```
+<div align=center>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/introduce"/></a>
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+</div>
